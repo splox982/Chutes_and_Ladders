@@ -12,6 +12,8 @@
 using namespace std;
 
 {
+    //Constant Declaration
 
+    //Variable Declaration
     return (0);
 }
